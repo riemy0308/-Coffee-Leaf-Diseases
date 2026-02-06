@@ -1,0 +1,5 @@
+parameter,input_value
+X_train,"(1400, 128, 128, 3)"
+X_val,"(600, 128, 128, 3)"
+Batch_size,32
+Epochs,20

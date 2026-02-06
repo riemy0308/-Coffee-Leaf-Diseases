@@ -1,0 +1,5 @@
+name,type,output_shape,params
+mobilenetv2_1.00_128,Functional,(None, 4, 4, 1280),2257984
+global_average_pooling2d,GlobalAveragePooling2D,unknown,0
+dropout,Dropout,unknown,0
+dense,Dense,unknown,5124
